@@ -1,0 +1,29 @@
+name: drcraigshapirodc
+favicon: null
+layout_spectrum: 0.3510728972032666
+typography_spectrum: 0.08038912527263165
+title: My World
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9419417602475733
+  lightness: 0.09765089093707502
+  saturation: 0.4564684140495956
+  rhythmicContrast: 0.04277357808314264
+purpose: []
