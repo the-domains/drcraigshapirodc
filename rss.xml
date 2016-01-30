@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[My World]]></title>
         <description><![CDATA[My World]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/drcraigshapirodc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 00:35:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Jan 2016 00:47:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/drcraigshapirodc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>TESTIMONIALS</p>]]></description>
-            <link>undefined0c30d64c-1141-4e20-852f-afb2c8342feb/index.html</link>
+            <link>https://thegrid.ai/drcraigshapirodc/0c30d64c-1141-4e20-852f-afb2c8342feb/index.html</link>
             <guid isPermaLink="false">0c30d64c-1141-4e20-852f-afb2c8342feb</guid>
-            <pubDate>Sat, 30 Jan 2016 00:35:48 GMT</pubDate>
+            <pubDate>Sat, 30 Jan 2016 00:47:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
