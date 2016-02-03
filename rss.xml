@@ -4,8 +4,15 @@
         <description><![CDATA[My World]]></description>
         <link>https://thegrid.ai/drcraigshapirodc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 21:58:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 21:58:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/drcraigshapirodc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d41b3a1c-c17c-4368-9e2a-0975368c958f.png">]]></description>
+            <link>https://thegrid.ai/drcraigshapirodc/0ce23147-f3cc-41e1-a427-d78fa1211fbc/index.html</link>
+            <guid isPermaLink="false">0ce23147-f3cc-41e1-a427-d78fa1211fbc</guid>
+            <pubDate>Wed, 03 Feb 2016 21:57:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18df29f4-10b3-4840-893e-46a57ad372c8.png">]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.yourchiropracticoffice.com/About-Us.html</link>
             <guid isPermaLink="false">949df59e-8a21-4495-9822-3e059343d555</guid>
             <pubDate>Sat, 30 Jan 2016 00:58:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dr. Craig Shapiro - Testimonials - Philadelphia, PA]]></title>
-            <description><![CDATA[<article><h1>Dr. Craig Shapiro - Testimonials - Philadelphia, PA</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c270b30c57cb48f139af18cc1abd5a4fa590102.png"></article>]]></description>
-            <link>http://www.yourchiropracticoffice.com/Testimonials.html</link>
-            <guid isPermaLink="false">955a2f41-79c4-4dc8-a711-297f8609468e</guid>
-            <pubDate>Sat, 30 Jan 2016 00:50:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
