@@ -4,8 +4,15 @@
         <description><![CDATA[My World]]></description>
         <link>https://thegrid.ai/drcraigshapirodc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 21:58:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 21:58:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/drcraigshapirodc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18df29f4-10b3-4840-893e-46a57ad372c8.png">]]></description>
+            <link>https://thegrid.ai/drcraigshapirodc/9e200357-a77a-4c60-a0cc-6ed432bf8de9/index.html</link>
+            <guid isPermaLink="false">9e200357-a77a-4c60-a0cc-6ed432bf8de9</guid>
+            <pubDate>Wed, 03 Feb 2016 21:57:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6e1ba5e-434a-4276-ad68-3c001db9eb1e.png">]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.yourchiropracticoffice.com/Testimonials.html</link>
             <guid isPermaLink="false">955a2f41-79c4-4dc8-a711-297f8609468e</guid>
             <pubDate>Sat, 30 Jan 2016 00:50:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>TESTIMONIALS</p>]]></description>
-            <link>https://thegrid.ai/drcraigshapirodc/0c30d64c-1141-4e20-852f-afb2c8342feb/index.html</link>
-            <guid isPermaLink="false">0c30d64c-1141-4e20-852f-afb2c8342feb</guid>
-            <pubDate>Sat, 30 Jan 2016 00:47:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
